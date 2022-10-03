@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --Voila.ip=0.0.0.0 --enable_nbextensions=True bear-classifier-voila.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --Voila.ip=0.0.0.0 bear-classifier-voila.ipynb
