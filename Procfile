@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True bear-classifier-voila.ipynb
+worker: voila --port=$PORT --no-browser --enable_nbextensions=True bear-classifier-voila.ipynb
